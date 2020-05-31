@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "crud-angular-f97dd": {
+      "hosting": {
+        "crud": [
+          "crud-angular-f97dd"
+        ]
+      }
+    }
+  }
+}
